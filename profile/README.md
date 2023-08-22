@@ -1,5 +1,5 @@
 # ADAMS Lab Last-Mile Delivery Drone Project
-Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu), [Eric Butcher](https://github.com/Eric-Butcher) (Eric put your email here)*
+Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu), [Haosong Xiao](add link to Github profile here) (put your email here), [Eric Butcher](https://github.com/Eric-Butcher) (Eric put your email here),*
 ***
 
 ## Hi there 👋
